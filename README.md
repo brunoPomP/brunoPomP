@@ -9,7 +9,7 @@ Atualmente estou estudando programação e aprendendo a lidar com a vida
 - 🖱️ Estudando programação a mais de 2 anos 
 - 🗣️ Certificado Internacional Cambridge 
 
-#### Tecnologias e Linguagens
+#### 🗺️Tecnologias e Linguagens
 <div>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
