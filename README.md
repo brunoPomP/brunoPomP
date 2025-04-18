@@ -7,7 +7,7 @@ Atualmente estou estudando programação e aprendendo a lidar com a vida
 ### 🤠Habilidades 
 
 - 🖱️ Estudando programação a mais de 2 anos 
-- 🗣️ Certificado Internacional Cambridge 
+- 🗣️ Certificado Internacional Cambridge (B2)
 
 #### 🗺️Tecnologias e Linguagens
 <div>
