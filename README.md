@@ -2,11 +2,12 @@
 
 ## 📌Sobre mim
 Opa! Me chamo **Bruno** e sou estudante de **Sistemas de Informação** pela **FIAP**. 
-Atualmente estudando programação 
+Atualmente estudando programação e me especializando em Java
 
 ### 🤠Habilidades 
 
-- 🖱️ 
+- 📜 Técnico em Desenvolvimento de Sistemas
+- ☕Java Dev (Back-end)
 - 🗣️ Certificado Internacional Cambridge (B2)
 
 #### 🗺️Tecnologias e Linguagens
