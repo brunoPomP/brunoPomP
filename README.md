@@ -1,12 +1,12 @@
 # brunooPomP
 
 ## 📌Sobre mim
-Opa! Me chamo **Bruno** (ou **PomP** para os mais íntimos) e sou estudante de **Desenvolvimento de Sistemas**. 
-Atualmente estou estudando programação e aprendendo a lidar com a vida
+Opa! Me chamo **Bruno** e sou estudante de **Sistemas de Informação** pela **FIAP**. 
+Atualmente estudando programação 
 
 ### 🤠Habilidades 
 
-- 🖱️ Estudando programação a mais de 2 anos 
+- 🖱️ 
 - 🗣️ Certificado Internacional Cambridge (B2)
 
 #### 🗺️Tecnologias e Linguagens
